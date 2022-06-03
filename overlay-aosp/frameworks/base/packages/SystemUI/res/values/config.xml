@@ -13,6 +13,10 @@
             1 - LOCAL HBM
     -->
     <integer name="config_udfps_hbm_type">0</integer>
+    
+    <!-- Statusbar Burn-in protection -->
+    <bool name="config_statusBarBurnInProtection">true</bool>
+    <integer name="config_shift_interval">40</integer>
 
 <!-- Allow devices override audio panel location to the left side -->
     <bool name="config_audioPanelOnLeftSide">true</bool>
