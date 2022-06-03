@@ -60,4 +60,8 @@
         <item>restart_bootloader</item>
         <item>restart_fastboot</item>
      </string-array>
+    
+    <!-- Display has physical cutout -->
+    <bool name="config_physicalDisplayCutout">true</bool>
+    
 </resources>
